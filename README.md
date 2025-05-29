@@ -1,3 +1,3 @@
 # Repo1
 # imdb_movie_analysis
-This report outlines strategies for optimizing profitability in upcoming movie project while adhering to existing budget constraints.
+This report recommends the optimal movie genre (Romance or Horror), director, and actor for SussexBudgetProductions' next film, aiming for high profitability and IMDB score, while considering IMDB score reliability.
